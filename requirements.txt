@@ -1,5 +1,4 @@
-torchvision==0.23.0
-tensorflow==2.19.0
+tensorflow==2.20.0
 pandas==2.2.3
 scikit_learn==1.4.2
 seaborn==0.13.2
